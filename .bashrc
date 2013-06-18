@@ -69,4 +69,4 @@ bakwht="\e[47m"   # White
 txtrst="\e[0m"    # Text Reset
 
 # bash prompt styles
-PS1="\[$txtcyn\]:\[$bldgrn\]\u\h \[$bldylw\]\w\[$txtrst\]$ "
+PS1="\[$txtcyn\]\h:\[$bldgrn\]\u \[$bldylw\]\w\[$txtrst\]$ "
